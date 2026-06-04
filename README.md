@@ -1,2 +1,16 @@
-# Movie-App-clone
-Movie App Clone is a web application that allows users to discover, search, and explore movies through a clean and responsive interface. It fetches real time movie data from an external API, providing information such as ratings, release dates, genres, and movie overviews. This project was built to practice API integration, state management.
+# movie_app
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
